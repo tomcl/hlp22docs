@@ -12,11 +12,11 @@ Write down every top-level function, in its initial order in files,  and who is 
 Give team members as IC logins
 Add changes in section below
 
-## Example content
+## Example content of TeamN.md file
 
 ### Symbol
 
-* keep this lits uptodate *
+* keep this list uptodate *
 
 afun - tomcl
 bfun - tomcl
@@ -26,7 +26,7 @@ dfun - login2
 efun - login2
 ffun - login2
 
-#### CHANGES
+#### Symbol Changes
 
 20 Feb dfun --> tomcl
 22 Feb bfun --> login2
@@ -39,4 +39,12 @@ ffun - login2
 *as for symbol above, list initial names of functions in initial line order and who is responsible*
 
 #### Buswire changes
+
+### Other Module Changes
+
+* any change smade to other modules *
+
+Sheet.interfacefun - tomcl
+
+
 
