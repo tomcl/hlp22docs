@@ -14,7 +14,18 @@ Add changes in section below
 
 ## Example content of TeamN.md file
 
-### Symbol
+# Team members
+
+* delete this and replace by your team members*
+
+| Name | IC user | github login
+|------|----------|-------------
+| Tom Clarke | tomcl | tomcl
+| A.N.Other | login2 | login2gh
+
+# Individual Contributions
+
+## Symbol
 
 * keep this list uptodate *
 
@@ -26,7 +37,7 @@ dfun - login2
 efun - login2
 ffun - login2
 
-#### Symbol Changes
+### Symbol Changes
 
 20 Feb dfun --> tomcl
 22 Feb bfun --> login2
@@ -34,15 +45,15 @@ ffun - login2
 *listing changes here as they happen*
 * List anything special here about who did what if needed*
 
-### Buswire
+## Buswire
 
 *as for symbol above, list initial names of functions in initial line order and who is responsible*
 
-#### Buswire changes
+### Buswire changes
 
-### Other Module Changes
+## Other Module Changes
 
-* any change smade to other modules *
+* any changes made to other modules *
 
 Sheet.interfacefun - tomcl
 
