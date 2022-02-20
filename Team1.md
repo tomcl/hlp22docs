@@ -1,4 +1,4 @@
-# Team members
+# Team Members
 
 | Name | IC user | github login
 |------|----------|-------------
