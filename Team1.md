@@ -14,7 +14,71 @@
 ## Symbol
 part 1a - ids19
 
-part 1b - thl19
+posDiff - thl19
+
+posAdd - thl19
+
+posOf - thl19
+
+title - thl19
+
+bustitle - thl19
+
+prefix - thl19
+
+gateDecoderType - thl19
+
+portDecName - thl19
+
+portLists - thl19
+
+rountToN - thl19
+
+customToLength - thl19
+
+makeComp - thl19
+
+createNewSymbol - thl19
+
+addToPortModel - thl19
+
+getPortPosEdgeGap - thl19
+
+getPortPos - thl19
+
+addText - thl19
+
+portCircles - thl19
+
+portText - thl19
+
+drawPortsText - thl19
+
+drawPorts - thl19
+
+createPolygon - thl19
+
+createBiColorPolygon - thl19
+
+addInvertor - thl19
+
+addClock - thl19
+
+addHorizontalLine - thl19
+
+outlineColor - thl19
+
+addHorizontalColorLine - thl19
+
+compSymbol - thl19
+
+init - thl19
+
+renderSymbol - thl19
+
+MapsIntoLists - thl19
+
+view - thl19
 
 part 2 - ib619
 
