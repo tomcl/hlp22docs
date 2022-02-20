@@ -27,7 +27,38 @@ part 2 - ib619
 DD MMM functionName --> ICuser
 
 ## Buswire
-part 1 - ms5919
+
+MapToSortedList - ms5919
+
+makeInitialWireVerticesList - ms5919
+
+inferDirectionfromVertices - ms5919
+
+xyVerticesToSegments - ms5919
+
+issieVerticesToSegments - ms5919
+
+extractConnection - ms5919
+
+extractConnections - ms5919
+
+onSegment - ms5919
+
+orientation - ms5919
+
+getAbsXY - ms5919 
+
+segmentIntersectsSegment - ms5919
+
+distanceBetweenTwoPoints - ms5919
+
+makeInitialSegmentsList - ms5919
+
+renderSegment - ms5919
+
+singleWireView - ms5919
+
+view - ms5919
 
 part 2 - ic1618 
 
@@ -58,6 +89,11 @@ getPortIdsOfWires - ml3319
 *List anything special here about who did what if needed*
 
 DD MMM functionName --> ICuser
+
+19 Feb segmentEndCoords --> added --> ms5919
+
+19 Feb segmentIndex --> added --> ms5919
+
 
 ## Other Module Changes
 *any changes made to other modules*
