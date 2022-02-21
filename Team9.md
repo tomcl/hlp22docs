@@ -6,6 +6,7 @@
 |------|----------|-------------
 | Simon Staal | sts219 | sts219
 | Petra Ratkai | pr2518 | petraratkai
+| Nathan Hamill | nh1019 | nh1019
 | A.N.Other | login2 | login2gh
 
 # Individual Contributions
@@ -105,7 +106,17 @@ ffun - login2
 - moveWire
 - updateWire
 
-**3 - **
+**3 - nh1019**
+- makeAllJumps
+- updateWireSegmentJumps
+- resetWireSegmentJumps
+- updateWires
+- update
+- wireIntersectsBoundingBox
+- getIntersectingWires
+- getWireIfClicked
+- pasteWires
+- portIdsOfWires
 ### Buswire changes
 
 **sts219**
