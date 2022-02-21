@@ -2,13 +2,14 @@
 
 - delete this and replace by your team members\*
 
-| Name           | IC user | github login |
-| -------------- | ------- | ------------ |
-| Simon Staal    | sts219  | sts219       |
-| Petra Ratkai   | pr2518  | petraratkai  |
-| Nathan Hamill  | nh1019  | nh1019       |
-| Jiah Yuee Chin | jyc119  | jyc119       |
-| A.N.Other      | login2  | login2gh     |
+| Name             | IC user | github login |
+| --------------   | ------- | ------------ |
+| Simon Staal      | sts219  | sts219       |
+| Petra Ratkai     | pr2518  | petraratkai  |
+| Nathan Hamill    | nh1019  | nh1019       |
+| Jiah Yuee Chin   | jyc119  | jyc119       |
+| Kaius Conway-Lai | kc319   | kc319        |
+| A.N.Other        | login2  | login2gh     |
 
 # Individual Contributions
 
@@ -18,7 +19,7 @@ Write down every top-level function, in its initial order in files, and who is r
 
 - keep this list uptodate \*
 
-**1 - jyc119**
+**1 - jyc119, kc319**
 
 - posDiff
 - posAdd
