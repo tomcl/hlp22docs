@@ -16,6 +16,7 @@ Write down every top-level function, in its initial order in files, and who is r
 ## Symbol
 
 * keep this list uptodate *
+
 **2 - pr2518**
 - getBoundingBoxofSymbol
 - getBoundingBoxes
@@ -46,11 +47,6 @@ Write down every top-level function, in its initial order in files, and who is r
 - update
 - extractComponent
 - extractComponents 
-
-dfun - login2
-efun - login2
-ffun - login2
-
 
 ### Symbol Changes
 
@@ -117,9 +113,9 @@ ffun - login2
 - getWireIfClicked
 - pasteWires
 - portIdsOfWires
+
 ### Buswire changes
 
-**sts219**
 
 ## Other Module Changes
 
