@@ -16,35 +16,35 @@ Write down every top-level function, in its initial order in files, and who is r
 
 * keep this list uptodate *
 **2 - pr2518**
-getBoundingBoxofSymbol
-getBoundingBoxes
-getOneBoundingBox
-getSymbolPos
-getInputPortsPositionMap
-getOutputPortsPositionMap
-getPort
-getPortLocations
-getInputPortLocation
-getOutputPortLocation
-getOnePortLocation
-getOnePortLocationNew
-getTwoPortLocations
-getCopiedSymbols
-filterString
-regex
-getCompList
-getIndex
-labelGenNumber
-generateLabel
-pasteSymbols
-getEquivalentCopiedPorts
-addSymbol
-changeNumberOfBitsf
-changeLsbf
-changeConstantf
-update
-extractComponent
-extractComponents 
+- getBoundingBoxofSymbol
+- getBoundingBoxes
+- getOneBoundingBox
+- getSymbolPos
+- getInputPortsPositionMap
+- getOutputPortsPositionMap
+- getPort
+- getPortLocations
+- getInputPortLocation
+- getOutputPortLocation
+- getOnePortLocation
+- getOnePortLocationNew
+- getTwoPortLocations
+- getCopiedSymbols
+- filterString
+- regex
+- getCompList
+- getIndex
+- labelGenNumber
+- generateLabel
+- pasteSymbols
+- getEquivalentCopiedPorts
+- addSymbol
+- changeNumberOfBitsf
+- changeLsbf
+- changeConstantf
+- update
+- extractComponent
+- extractComponents 
 
 dfun - login2
 efun - login2
