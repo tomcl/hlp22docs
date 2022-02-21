@@ -1,13 +1,14 @@
 # Team members
 
-* delete this and replace by your team members*
+- delete this and replace by your team members\*
 
-| Name | IC user | github login
-|------|----------|-------------
-| Simon Staal | sts219 | sts219
-| Petra Ratkai | pr2518 | petraratkai
-| Nathan Hamill | nh1019 | nh1019
-| A.N.Other | login2 | login2gh
+| Name           | IC user | github login |
+| -------------- | ------- | ------------ |
+| Simon Staal    | sts219  | sts219       |
+| Petra Ratkai   | pr2518  | petraratkai  |
+| Nathan Hamill  | nh1019  | nh1019       |
+| Jiah Yuee Chin | jyc119  | jyc119       |
+| A.N.Other      | login2  | login2gh     |
 
 # Individual Contributions
 
@@ -15,9 +16,10 @@ Write down every top-level function, in its initial order in files, and who is r
 
 ## Symbol
 
-* keep this list uptodate *
+- keep this list uptodate \*
 
 **2 - pr2518**
+
 - getBoundingBoxofSymbol
 - getBoundingBoxes
 - getOneBoundingBox
@@ -46,29 +48,32 @@ Write down every top-level function, in its initial order in files, and who is r
 - changeConstantf
 - update
 - extractComponent
-- extractComponents 
+- extractComponents
 
 ### Symbol Changes
 
 20 Feb dfun --> tomcl
 22 Feb bfun --> login2
 
-*listing changes here as they happen*
-* List anything special here about who did what if needed*
+_listing changes here as they happen_
+
+- List anything special here about who did what if needed\*
 
 ## Buswire
 
 **Debugging - stst219**
-- ppSId 
-- ppS 
-- ppWId 
-- ppMaps 
-- ppSeg 
-- pp 
+
+- ppSId
+- ppS
+- ppWId
+- ppMaps
+- ppSeg
+- pp
 
 **1 - **
 
 **2 - sts219**
+
 - segmentIntersectsSegmentCoordinates
 - getTopLeftAndBottomRightCorner
 - segmentIntersectsBoundingBoxCoordinates
@@ -103,6 +108,7 @@ Write down every top-level function, in its initial order in files, and who is r
 - updateWire
 
 **3 - nh1019**
+
 - makeAllJumps
 - updateWireSegmentJumps
 - resetWireSegmentJumps
@@ -116,10 +122,8 @@ Write down every top-level function, in its initial order in files, and who is r
 
 ### Buswire changes
 
-
 ## Other Module Changes
 
-* any changes made to other modules *
+- any changes made to other modules \*
 
 Sheet.interfacefun - tomcl
-
