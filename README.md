@@ -8,9 +8,9 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 **1st commit with initial (and probably final) allocations of code to Team members must be before Wednesday 23rd 16:00.**
 
-Write down every top-level function, in its initial order in files,  and who is responsible for it, on a single line (line numbers are unstable).
-Give team members as IC logins
-Add changes in section below
+* Write down every top-level function, in its initial order in files,  and who is responsible for it, on a single line (line numbers are unstable).
+* Give team members as IC logins
+* Add changes in section below
 
 ## Example content of TeamN.md file
 
@@ -30,20 +30,25 @@ Add changes in section below
 * keep this list uptodate *
 
 afun - tomcl
+
 bfun - tomcl
+
 cfun - tomcl
 
 dfun - login2
+
 efun - login2
+
 ffun - login2
 
-### Symbol Changes
+### Symbol Function Ownership Changes
 
 20 Feb dfun --> tomcl
+
 22 Feb bfun --> login2
 
 *listing changes here as they happen*
-* List anything special here about who did what if needed*
+*List anything special here about who did what if needed*
 
 ## Buswire
 
