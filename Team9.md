@@ -18,6 +18,43 @@ Write down every top-level function, in its initial order in files, and who is r
 
 - keep this list uptodate \*
 
+**1 - jyc119**
+
+- posDiff
+- posAdd
+- posOf
+- title
+- bustitle
+- prefix
+- gateDecoderType
+- portDecName
+- portLists
+- roundToN
+- customToLength
+- makeComp
+- createNewSymbol
+- addToPortModel
+- getPortPosEdgeGap
+- getPortPos
+- getPortPosModel
+- addText
+- portCircles
+- portText
+- drawPortsText
+- drawPorts
+- createPolygon
+- createBiColorPolygon
+- addInvertor
+- addClock
+- addHorizontalLine
+- outlineColor
+- addHorizontalColorLine
+- compSymbol
+- init
+- renderSymbol
+- MapsIntoLists
+- view
+
 **2 - pr2518**
 
 - getBoundingBoxofSymbol
