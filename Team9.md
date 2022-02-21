@@ -5,6 +5,7 @@
 | Name | IC user | github login
 |------|----------|-------------
 | Simon Staal | sts219 | sts219
+| Petra Ratkai | pr2518 | petraratkai
 | A.N.Other | login2 | login2gh
 
 # Individual Contributions
@@ -14,14 +15,41 @@ Write down every top-level function, in its initial order in files, and who is r
 ## Symbol
 
 * keep this list uptodate *
-
-afun - tomcl
-bfun - tomcl
-cfun - tomcl
+**2 - pr2518**
+getBoundingBoxofSymbol
+getBoundingBoxes
+getOneBoundingBox
+getSymbolPos
+getInputPortsPositionMap
+getOutputPortsPositionMap
+getPort
+getPortLocations
+getInputPortLocation
+getOutputPortLocation
+getOnePortLocation
+getOnePortLocationNew
+getTwoPortLocations
+getCopiedSymbols
+filterString
+regex
+getCompList
+getIndex
+labelGenNumber
+generateLabel
+pasteSymbols
+getEquivalentCopiedPorts
+addSymbol
+changeNumberOfBitsf
+changeLsbf
+changeConstantf
+update
+extractComponent
+extractComponents 
 
 dfun - login2
 efun - login2
 ffun - login2
+
 
 ### Symbol Changes
 
