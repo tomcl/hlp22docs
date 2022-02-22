@@ -156,8 +156,8 @@ _listing changes here as they happen_
 - portIdsOfWires
 
 ### Buswire changes
-21/02 foldOverSegs -> sts219
-21/02 wireIntersectsBoundingBox -> sts219
+- 21/02 foldOverSegs -> sts219
+- 21/02 wireIntersectsBoundingBox -> sts219
 
 ## Other Module Changes
 
