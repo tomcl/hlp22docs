@@ -63,7 +63,69 @@ singleWireView - ms5919
 
 view - ms5919
 
-part 2 - ic1618 
+segmentIntersectsSegmentCoordinates - ic1618 
+
+getTopLeftAndBottomRightCorner - ic1618 
+
+segmentIntersectsBoundingBoxCoordinates - ic1618 
+
+distanceFromPointToSegment - ic1618 
+
+routeGivenWiresBasedOnPortPositions - ic1618 
+
+getIntersectingSegments - ic1618 
+
+getClosestSegment - ic1618 
+
+getClickedSegment - ic1618 
+
+checkSegmentAngle - ic1618 
+
+segPointsLeft - ic1618 
+
+segXDelta - ic1618 
+
+moveXJoinPos - ic1618 
+
+changeLengths - ic1618 
+
+getSafeDistanceForMove - ic1618 
+
+removeRedundantSegments - ic1618 
+
+moveSegment - ic1618 
+
+init - ic1618 
+
+getConnectedWires - ic1618 
+
+filterWiresByCompMoved - ic1618 
+
+autorouteWire - ic1618 
+
+revSegments - ic1618 
+
+addPosPos - ic1618 
+
+moveEnd - ic1618 
+
+moveStart - ic1618 
+
+moveAll - ic1618 
+
+transformXY - ic1618 
+
+transformSeg - ic1618 
+
+topology - ic1618 
+
+partialAutoRoute - ic1618 
+
+negXYPos - ic1618 
+
+moveWire - ic1618 
+
+updateWire - ic1618 
 
 makeAllJumps - ml3319
 
