@@ -1,6 +1,5 @@
 # Team members
 
-- delete this and replace by your team members\*
 
 | Name             | IC user | github login |
 | --------------   | ------- | ------------ |
@@ -16,8 +15,6 @@
 Write down every top-level function, in its initial order in files, and who is responsible for it, on a single line (line numbers are unstable). Give team members as IC logins Add changes in section below
 
 ## Symbol
-
-- keep this list uptodate \*
 
 **1 - jyc119, kc319**
 
@@ -159,6 +156,8 @@ _listing changes here as they happen_
 - portIdsOfWires
 
 ### Buswire changes
+21/02 foldOverSegs -> sts219
+21/02 wireIntersectsBoundingBox -> sts219
 
 ## Other Module Changes
 
