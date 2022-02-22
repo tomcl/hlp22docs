@@ -155,10 +155,6 @@ getPortIdsOfWires - ml3319
 
 DD MMM functionName --> ICuser
 
-19 Feb segmentEndCoords --> added --> ms5919
-
-19 Feb segmentIndex --> added --> ms5919
-
 
 ## Other Module Changes
 *any changes made to other modules*
