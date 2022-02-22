@@ -13,72 +13,11 @@
 
 ## Symbol
 part 1a - ids19
+posDiff - ids19 posAdd - ids19 posOf - ids19 title - ids19 bustitle - ids19 prefix - ids19 gateDecoderType - ids19 portDecName - ids19 portLists - ids19 rountToN - ids19 customToLength - ids19 makeComp - ids19 createNewSymbol - ids19 addToPortModel - ids19 getPortPosEdgeGap - ids19 getPortPos - ids19 addText - ids19 portCircles - ids19 portText - ids19 drawPortsText - ids19 drawPorts - ids19 createPolygon - ids19 createBiColorPolygon - ids19 addInvertor - ids19 addClock - ids19 addHorizontalLine - ids19 outlineColor - ids19 addHorizontalColorLine - ids19 compSymbol - ids19 init - ids19 renderSymbol - ids19 MapsIntoLists - ids19 view - ids19 
 
-posDiff - thl19
+part 1b - thl19
+posDiff - thl19 posAdd - thl19 posOf - thl19 title - thl19 bustitle - thl19 prefix - thl19 gateDecoderType - thl19 portDecName - thl19 portLists - thl19 rountToN - thl19 customToLength - thl19 makeComp - thl19 createNewSymbol - thl19 addToPortModel - thl19 getPortPosEdgeGap - thl19 getPortPos - thl19 addText - thl19 portCircles - thl19 portText - thl19 drawPortsText - thl19 drawPorts - thl19 createPolygon - thl19 createBiColorPolygon - thl19 addInvertor - thl19 addClock - thl19 addHorizontalLine - thl19 outlineColor - thl19 addHorizontalColorLine - thl19 compSymbol - thl19 init - thl19 renderSymbol - thl19 MapsIntoLists - thl19 view - thl19 
 
-posAdd - thl19
-
-posOf - thl19
-
-title - thl19
-
-bustitle - thl19
-
-prefix - thl19
-
-gateDecoderType - thl19
-
-portDecName - thl19
-
-portLists - thl19
-
-rountToN - thl19
-
-customToLength - thl19
-
-makeComp - thl19
-
-createNewSymbol - thl19
-
-addToPortModel - thl19
-
-getPortPosEdgeGap - thl19
-
-getPortPos - thl19
-
-addText - thl19
-
-portCircles - thl19
-
-portText - thl19
-
-drawPortsText - thl19
-
-drawPorts - thl19
-
-createPolygon - thl19
-
-createBiColorPolygon - thl19
-
-addInvertor - thl19
-
-addClock - thl19
-
-addHorizontalLine - thl19
-
-outlineColor - thl19
-
-addHorizontalColorLine - thl19
-
-compSymbol - thl19
-
-init - thl19
-
-renderSymbol - thl19
-
-MapsIntoLists - thl19
-
-view - thl19
 
 part 2 - ib619
 
