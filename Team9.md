@@ -8,7 +8,7 @@
 | Nathan Hamill    | nh1019  | nh1019       |
 | Jiah Yuee Chin   | jyc119  | jyc119       |
 | Kaius Conway-Lai | kc319   | kc319        |
-| A.N.Other        | login2  | login2gh     |
+| Thomas Loureiro van Isusm        | tl319  | tl319    |
 
 # Individual Contributions
 
@@ -105,8 +105,28 @@ _listing changes here as they happen_
 - ppSeg
 - pp
 
-**1 - **
 
+**1 - tl319**
+- segmentsToVertices
+- makeInitialWireVerticesList
+- inferDirectionfromVertices
+- xyVerticesToSegments
+- issieVerticesToSegments
+- extractConnection
+- extractConnections
+- onSegment
+- orientation
+- getAbsXY
+- segmentIntersectsSegment
+- makeSegPos
+- distanceBetweenTwoPoints
+- makeInitialSegmentsList
+- renderSegment
+- memoOf
+- singleWireView
+- MapToSortedList
+- view
+- 
 **2 - sts219**
 
 - segmentIntersectsSegmentCoordinates
