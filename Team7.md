@@ -4,9 +4,9 @@
 |------|----------|-------------
 | Khayle Torres | kt1719 | kt1719
 | Tsz Wang, Ko | twk219 | TszWangKo
-| Samuel | N/A | N/A
+| Samuel Adekunle | sja119 | Samuel Adekunle
 | Neel | nd419 | neeldug
-| Jonah | N/A | N/A
+| Jonah | jjl119 | jjlehner
 
 # Individual Contributions
 
@@ -46,6 +46,7 @@
 - renderSymbol - kt1719
 - MapsIntoLists - kt1719
 - view - kt1719
+  
 - getBoundingBoxofSymbol - nd419
 - getBoundingBoxes - nd419
 - getOneBoundingBox - nd419
@@ -104,7 +105,49 @@
 - MapToSortedList  - TszWangKo
 - view  - TszWangKo
 
+- segmentIntersectsSegmentCoordinates - jjlehner
+- getTopLeftAndBottomRightCorner -  jjlehner
+- segmentIntersectsBoundingBoxCoordinates - jjlehner
+- distanceFromPointToSegment - jjlehner
+- routeGivenWiresBasedOnPortPositions - jjlehner
+- getIntersectingSegments - jjlehner
+- getClosestSegment - jjlehner
+- getClickedSegment -  jjlehner
+- checkSegmentAngle - jjlehner
+- segPointsLeft - jjlehner
+- segXDelta - jjlehner
+- moveXJoinPos - jjlehner
+- changeLengths - jjlehner
+- getSafeDistanceForMove - jjlehner
+- removeRedundantSegments - jjlehner
+- moveSegment - jjlehner
+- init - jjlehner
+- getConnectedWires - jjlehner
+- filterWiresByCompMoved - jjlehner
+- autorouteWire - jjlehner
+- revSegments - jjlehner
+- addPosPos - jjlehner
+- moveEnd - jjlehner
+- moveStart - jjlehner
+- moveAll - jjlehner
+- transformXY - jjlehner
+- transformSeg - jjlehner
+- topology - jjlehner
+- partialAutoRoute - jjlehner
+- negXYPos - jjlehner
+- moveWire - jjlehner
+- updateWire - jjlehner
 
+- makeAllJumps - samuel-adekunle
+- updateWireSegmentJumps - samuel-adekunle
+- resetWireSegmentJumps - samuel-adekunle
+- updateWires - samuel-adekunle
+- update - samuel-adekunle
+- wireIntersectBoundingBox - samuel-adekunle
+- getIntersectingWires - samuel-adekunle
+- getWireIfClicked - samuel-adekunle
+- pasteWires - samuel-adekunle
+- getPortIdsOfWires - samuel-adekunle
 ### Buswire changes
 
 ## Other Module Changes
