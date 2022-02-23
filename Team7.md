@@ -5,7 +5,7 @@
 | Khayle Torres | kt1719 | kt1719
 | Tsz Wang, Ko | twk219 | TszWangKo
 | Samuel | N/A | N/A
-| Neel | N/A | N/A
+| Neel | nd419 | neeldug
 | Jonah | N/A | N/A
 
 # Individual Contributions
@@ -46,6 +46,36 @@
 - renderSymbol - kt1719
 - MapsIntoLists - kt1719
 - view - kt1719
+- getBoundingBoxofSymbol - nd419
+- getBoundingBoxes - nd419
+- getOneBoundingBox - nd419
+- getSymbolPos - nd419
+- getInputPortsPositionMap - nd419
+- getOutputPortsPositionMap - nd419
+- getPort - nd419
+- getPortLocations - nd419
+- getInputPortLocation - nd419
+- getOutputPortLocation - nd419
+- getOnePortLocation - nd419
+- getOnePortLocationNew - nd419
+- getTwoPortLocations - nd419
+- getCopiedSymbols - nd419
+- filterString - nd419
+- regex - nd419
+- getCompList - nd419
+- getIndex - nd419
+- labelGenNumber - nd419
+- generateLabel - nd419
+- pasteSymbols - nd419
+- getEquivalentCopiedPorts - nd419
+- addSymbol - nd419
+- changeNumberOfBitsf - nd419
+- changeLsbf - nd419
+- changeConstantf - nd419
+- update - nd419
+- extractComponent - nd419
+- extractComponents - nd419
+
 
 ### Symbol Function Ownership Changes
 
