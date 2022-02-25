@@ -8,7 +8,7 @@
 | Nathan Hamill    | nh1019  | nh1019       |
 | Jiah Yuee Chin   | jyc119  | jyc119       |
 | Kaius Conway-Lai | kc319   | kc319        |
-| Thomas Loureiro van Isusm        | tl319  | tl319    |
+| Thomas Loureiro van Issum        | tl319  | tl319    |
 
 # Individual Contributions
 
