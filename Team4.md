@@ -193,7 +193,7 @@ MapToSortedList - swd18
 
 view - swd18
 
-segmentIntersectsSegmentCoordinates - ib119
+segmentIntersectsSegmentCoordinates - swd18
 
 getTopLeftAndBottomRightCorner - ib119
 
