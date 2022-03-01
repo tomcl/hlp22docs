@@ -13,21 +13,191 @@
 
 ## Symbol
 
-* keep this list uptodate *
+posDiff - my5918
+
+posAdd - my5918
+
+posOf - my5918
+
+title - my5918
+
+bustitle - my5918
+
+prefix - my5918
+
+gateDecoderType - my5918
+
+portDecName - my5918
+
+portLists - my5918
+
+roundToN - my5918
+
+customToLength - my5918
+
+makeComp - my5918
+
+createNewSymbol - my5918
+
+addToPortModel - my5918
+
+getPortPos - my5918
+
+getPortPosModel - my5918
+
+addText - my5918
+
+portCircles - my5918
+
+portText - my5918
+
+drawPortsText - my5918
+
+drawPorts - my5918
+
+createPolygon - my5918
+
+createBiColorPolygon - my5918
+
+addInvertor - my5918
+
+addClock - my5918
+
+addHorizontalLine - my5918
+
+outlineColor - my5918
+
+addHorizontalColorLine - my5918
 
 compSymbol - my5918
 
+renderSymbol - my5918
+
+MapsIntoLists - my5918
+
 view - my5918
+
+posDiff - sz2619
+
+posAdd - sz2619
+
+posOf - sz2619
+
+title - sz2619
+
+bustitle - sz2619
+
+prefix - sz2619
+
+gateDecoderType - sz2619
+
+portDecName - sz2619
+
+portLists - sz2619
+
+roundToN - sz2619
+
+customToLength - sz2619
+
+makeComp - sz2619
+
+createNewSymbol - sz2619
+
+addToPortModel - sz2619
+
+getPortPos - sz2619
+
+getPortPosModel - sz2619
+
+addText - sz2619
+
+portCircles - sz2619
+
+portText - sz2619
+
+drawPortsText - sz2619
+
+drawPorts - sz2619
+
+createPolygon - sz2619
+
+createBiColorPolygon - sz2619
+
+addInvertor - sz2619
+
+addClock - sz2619
+
+addHorizontalLine - sz2619
+
+outlineColor - sz2619
+
+addHorizontalColorLine - sz2619
 
 compSymbol - sz2619
 
+renderSymbol - sz2619
+
+MapsIntoLists - sz2619
+
 view - sz2619
 
-drawPortsText - syt119
+getBoundingBoxofSymbol - syt119
 
-drawPorts - syt119
+getBoundingBoxes - syt119
+
+getOneBoundingBox - syt119
+
+getSymbolPos - syt119
+
+getInputPortsPositionMap - syt119
+
+getOutputPortsPositionMap - syt119
+
+getPort - syt119
+
+getPortLocations - syt119
+
+getInputPortLocation - syt119
+
+getOutputPortLocation - syt119
+
+getOnePortLocation - syt119
+
+getOnePortLocationNew - syt119
+
+getTwoPortLocations - syt119
+
+getCopiedSymbols - syt119
+
+filterString - syt119
+
+regex - syt119
+
+getCompList - syt119
+
+getIndex - syt119
+
+labelGenNumber - syt119
+
+generateLabel - syt119
+
+pasteSymbols - syt119
+
+getEquivalentCopiedPorts - syt119
+
+addSymbol - syt119
+
+changeNumberOfBitsf - syt119
+
+changeLsbf - syt119
+
+changeConstantf - syt119
 
 update - syt119
+
+extractComponent - syt119
+
+extractComponents - syt119
 
 ### Symbol Function Ownership Changes
 
