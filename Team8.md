@@ -100,9 +100,9 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 *as for symbol above, list initial names of functions in initial line order and who is responsible*
 
 - `segmentsToVertices` - dac219
-- `makeInitialWireVerticesList` - dac219
+- `makeInitialWireVerticesList` - tlp19
 - `inferDirectionfromVertices` - dac219
-- `xyVerticesToSegments` - dac219
+- `xyVerticesToSegments` - tlp19
 - `issieVerticesToSegments` - dac219
 - `extractConnection` - dac219
 - `extractConnections` - dac219
@@ -112,13 +112,12 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 - `segmentIntersectsSegment` - dac219
 - `makeSegPos` - dac219
 - `distanceBetweenTwoPoints` - dac219
-- `makeInitialSegmentsList` - dac219
+- `makeInitialSegmentsList` - tlp19
 - `renderSegment` - dac219
 - `memoOf` - dac219
 - `singleWireView` - dac219
 - `MapToSortedList` - dac219
 - `view` - dac219
-
 - `segmentIntersectsSegmentCoordinates` - tlp19
 - `getTopLeftAndBottomRightCorner` - tlp19
 - `segmentIntersectsBoundingBoxCoordinates` - tlp19
@@ -166,6 +165,11 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 
 ### Buswire changes
+
+- 28 Feb `makeInitialWireVerticesList` --> tlp19
+- 28 Feb `xyVerticesToSegments` --> tlp19
+- 28 Feb `makeInitialSegmentsList` --> tlp19
+
 
 ## Other Module Changes
 
