@@ -17,7 +17,7 @@
 - `posDiff` - rv519
 - `posAdd` - rv519
 ~~- `posOf` - rv519~~
-- **New** rotatePorts - rv519
+- **New** `rotatePorts` - rv519
 - `addText` - rv519
 ~~- `title` - rv519~~
 - `busTitle` -> `getbusTitle` - rv519
@@ -26,7 +26,7 @@
 - `portDecName` -> `getSymbolPortsTitle` - rv519
 ~~- `portList` - rv519~~
 ~~- `customToLength` - rv519~~
-- `makeComp` -> createNewComponent - rv519
+- `makeComp` -> `createNewComponent` - rv519
 - **New** `createPortsLoc` - rv519
 - `createNewSymbol` - rv519
 - **New** `movePortClockwise` - rv519
@@ -189,6 +189,8 @@
 - Sheet.mDownUpdate - jam419
 - Sheet.update - jam419
 - DrawHelpers.MouseT + MouseButton - jam419
+- Sheet.update - rv519
+- type KeyboardMsg - rv519
 
 
 
