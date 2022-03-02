@@ -334,14 +334,42 @@ getPortIdsOfWires - dc2619
 
 isClose, posIsClose - rx319
 
+orientationFromVertices - rx319
+
+makeSegUndragged - rx319
+
+verticesToXYPosList - rx319
+
+RIWireToVerticesList - rx319
+
+initialiseSegmentXYPosList - rx319
+
+xyPosToRISegList - rx319
+
+initialiseRISegmentList - rx319
+
+issieVerticesToRISegList - rx319
+
+wireToConnection - rx319
+
+wireToConnectionsList - rx319
+
+renderSegmentList - rx319
+
+singleReactElementWire - rx319
+
+viewReactElements - rx319
+
+segmentIntersectsSegmentCoordinates - rx319
+
 // Adding type converters to make sure BusWire1 and BusWire3 are able to use RI types but able to interface with old types
+RISegListToSegmentList - rx319
+
 modelToRI - dc2619
 
 foldOverRISegs - dc2619
 
 updateSegJumpsWithRIModel - dc2619
-
-RISegListToSegmentList - rx319
 
 ## Other Module Changes
 
