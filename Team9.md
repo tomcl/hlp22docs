@@ -84,12 +84,10 @@ Write down every top-level function, in its initial order in files, and who is r
 - update
 - extractComponent
 - extractComponents
-- getPortPos
 
 ### Symbol Changes
 
-20 Feb dfun --> tomcl
-22 Feb bfun --> login2
+23 Feb getPortPos --> pr2518
 
 _listing changes here as they happen_
 
