@@ -187,7 +187,7 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 - 1 Mar: Line 824 - 1112: `Sheet.fs: update` - lg519
 
-    Simplified logic to conform to ISSIE guidelines.
+    Simplified logic, removed extra functions and modified xw2519 code to comply with Elmish MVU guidelines. Added functionality to rotate multiple symbols.
 
 - 1 Mar: Line 913 - 915: `Sheet.fs: update` - bd519 
   
