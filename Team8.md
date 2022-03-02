@@ -30,38 +30,46 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 *keep this list up to date*
 
-- `posDiff` - xw2519
-- `posAdd` - xw2519
-- `posOf` - xw2519
-- `symbolTitle` - xw2519
-- `busTitle` - xw2519
-- `prefix` - xw2519
-- `gateDecoderType` - xw2519
-- `portDecName` - xw2519
-- `customToLength` - xw2519
-- `makeComp` - xw2519
-- `createNewSymbol` - xw2519
-- `addToPortModel` - xw2519
-- `getPortPosEdgeGap` - xw2519
-- `getPortPos` - xw2519
-- `getPortPosModel` - xw2519
-- `addText` - xw2519
-- `portCircles` - xw2519
-- `drawPortsText` - xw2519
-- `drawPorts` - xw2519
-- `createPolygon` - xw2519
-- `createBiColorPolygon` - xw2519
-- `addInvertor` - xw2519
-- `addClock` - xw2519
-- `addHorizontalLine` - xw2519
-- `outlineColor` - xw2519
-- `addHorizontalColorLine` - xw2519
-- `compSymbol` - xw2519
-- `init` - xw2519
-- `RenderSymbolProps` - xw2519
-- `renderSymbol` - xw2519
-- `MapsIntoLists` - xw2519
-- `view` - xw2519
+- Line 78 - 78: `convertDegtoRad` - xw2519
+- Line 80 - 82: `convertRelativeToSymbolCenter` - xw2519
+- Line 84 - 86: `convertRelativeToTopLeft` - xw2519
+- Line 88 - 94: `convertSymbolPointsToString` - xw2519
+- Line 96 - 97: `flipSymbol` - xw2519
+- Line 99 - 99: `getSymbolPoints` - xw2519
+- Line 101 - 101: `posAdd` - xw2519
+- Line 103 - 103: `posDiff` - xw2519
+- Line 105 - 105: `posOf` - xw2519
+- Line 107 - 109: `rotatePoint` - xw2519
+- Line 111 - 125: `rotateSymbol` - xw2519
+- Line 129 - 129: `init` - xw2519
+- Line 131 - 203: `initComponent` - xw2519
+- Line 205 - 209: `initSymbolCharacteristics` - xw2519
+- Line 211 - 274: `initSymbolPoints` - xw2519
+- Line 276 - 292: `makeSymbol` - xw2519
+- Line 296 - 303: `addToPortModel` - xw2519
+- Line 305 - 325: `getPortPos` - xw2519
+- Line 327 - 328: `getModelPortPos` - xw2519
+- Line 332 - 335: `addText` - xw2519
+- Line 339 - 381: `addPortText` - xw2519
+- Line 383 - 405: `addPortTitle` - xw2519
+- Line 407 - 417: `addSymbolLabel` - xw2519
+- Line 419 - 495: `addSymbolText` - xw2519
+- Line 499 - 504: `addOutlineColor` - xw2519
+- Line 506 - 507: `createPolygon` - xw2519
+- Line 509 - 519: `drawBiColorPolygon` - xw2519
+- Line 521 - 523: `drawHorizontalLine` - xw2519
+- Line 525 - 528: `drawHorizontalColorLine` - xw2519
+- Line 530 - 531: `drawPortCircle` - xw2519
+- Line 533 - 535: `drawVerticalLine` - xw2519
+- Line 537 - 540: `drawVerticalColorLine` - xw2519
+- Line 544 - 549: `drawPorts` - xw2519
+- Line 551 - 566: `drawArrow` - xw2519
+- Line 568 - 604: `drawSymbolCharacteristics` - xw2519
+- Line 606 - 675: `drawSymbolShape` - xw2519
+- Line 679 - 687: `createSymbol` - xw2519
+- Line 696 - 704: `renderSymbol` - xw2519
+- Line 706 - 717: `convertMapsIntoLists` - xw2519
+- Line 719 - 729: `view` - xw2519
 - `getBoundingBoxofSymbol` -lg519
 - `getBoundingBoxes` -lg519
 - `getOneBoundingBox` -lg519
@@ -91,9 +99,6 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 - `extractComponents` -lg519
 
 ### Symbol Function Ownership Changes
-
-*listing changes here as they happen*
-*List anything special here about who did what if needed*
 
 ## Buswire
 
@@ -173,7 +178,19 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 ## Other Module Changes
 
-*any changes made to other modules*
+- 27 Feb: Line 824 - 1112: `Sheet.fs: update` - xw2519 
+  
+    Modified `update` function to register keypresses `R` and `F` and call the associated functions.
+
+- 27 Feb: Line 160 - 181: `Renderer.fs: editMenu` - xw2519 
+
+    Modified `editMenu` to recognise keypresses `R` and `F`.
+
+- 1 Mar: Line 824 - 1112: `Sheet.fs: update` - lg519
+
+    Simplified logic to conform to ISSIE guidelines.
+
+
 
 
 
