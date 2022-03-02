@@ -72,7 +72,7 @@ MapToSortedList - rx319
 
 view - rx319
 
-segmentIntersectsSegmentCoordinates - rar119
+segmentIntersectsSegmentCoordinates - rx319
 
 getTopLeftAndBottomRightCorner - rar119
 
@@ -161,6 +161,15 @@ getPortIdsOfWires - dc2619
 *as for symbol above, list initial names of functions in initial line order and who is responsible*
 
 ### Buswire changes
+
+isClose, posIsClose - rx319
+
+// Adding type converters to make sure BusWire1 and BusWire3 are able to use RI types but able to interface with old types
+modelToRI - dc2619
+
+foldOverRISegs - dc2619
+
+updateSegJumpsWithRIModel - dc2619
 
 ## Other Module Changes
 
