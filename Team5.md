@@ -13,7 +13,6 @@
 # Individual Contributions
 
 ## Symbol
-
 - `posDiff` - mt1819
 - `posAdd` - mt1819
 - `posOf` - mt1819 -> removed
@@ -49,48 +48,50 @@
 - `renderSymbol` - mt1819
 - `MapsIntoLists` - mt1819
 - `view` - mt1819
-- 
 
 - `posDiff` - rv519
 - `posAdd` - rv519
-~~- `posOf` - rv519~~
+- ~~- `posOf` - rv519~~
+- **New** `rotatePorts` - rv519
+- `posDiff` - rv519
+- `posAdd` - rv519
+- ~~- `posOf` - rv519~~
 - **New** rotatePorts - rv519
 - `addText` - rv519
-~~- `title` - rv519~~
+- ~~- `title` - rv519~~
 - `busTitle` -> `getbusTitle` - rv519
 - `prefix` -> `getSymbolLabel` - rv519
 - `gateDecoderType` -> `getSymbolTitle` - rv519
 - `portDecName` -> `getSymbolPortsTitle` - rv519
-~~- `portList` - rv519~~
-~~- `customToLength` - rv519~~
+- ~~- `portList` - rv519~~
+- ~~- `customToLength` - rv519~~
 - `makeComp` -> createNewComponent - rv519
 - **New** `createPortsLoc` - rv519
 - `createNewSymbol` - rv519
 - **New** `movePortClockwise` - rv519
 - **New** `movePortCounterClockwise` - rv519
 - `addToPortModel` - rv519
-~~- `getPortPosEdgeGap` - rv519~~
+- ~~- `getPortPosEdgeGap` - rv519~~
 - **New** `getPortPosLoc` - rv519
 - `getPortPos` - rv519
-~~- `getPortPosModel` - rv519~~
-~~- `portCircles` - rv519~~
+- ~~- `getPortPosModel` - rv519~~
+- ~~- `portCircles` - rv519~~
 - **New** `portText` - rv519
 - `drawPortsText` - rv519
 - `drawPorts` - rv519
-~~- `createPolygon` - rv519~~
-~~- `createBiColorPolygon` - rv519~~
+- ~~- `createPolygon` - rv519~~
+- ~~- `createBiColorPolygon` - rv519~~
 - `addInvertor` - rv519
 - `addClock` - rv519
-~~- `addHorizontalLine` rv519~~
-~~- `outlineColor` - rv519~~
+- ~~- `addHorizontalLine` rv519~~
+- ~~- `outlineColor` - rv519~~
 - `addHorizontalColorLine` -> `drawLine rv519
 - `compSymbol` -> `drawSymbol` rv519
 - `init` - rv519
 - `RenderSymbolProps` - rv519
 - `renderSymbol` - rv519
-~~- `MapsIntoLists` - rv519`~~
+- ~~- `MapsIntoLists` - rv519`~~
 - `view` - rv519
-
 
 - `getBoundingBoxofSymbol` -jam419
 - `getBoundingBoxes` -jam419
@@ -124,6 +125,8 @@
 ### Symbol Function Ownership Changes
 
 2 March jam419 -> refactoring and removed several functions including `getSymbolPos`, `getOnePortLocation`, `changeNumberOfBitsf`, `changeLsbf`, `changeConstantf` and also renamed functions as above. 
+
+2 March rv519 -> Refactoring and removed several functions including `MapsIntoLists`, `outlineColor`, `addHorizontalLine`, `createBiColorPolygon`, `createPolygon`, `portCircles`, `getPortPosModel`, `getPortPosEdgeGap`, `customToLength`, `portList`, `title`, `posOf`. Additionally renamed and added functions as above. 
 
 ## Buswire
 
@@ -203,8 +206,6 @@
 - Sheet.mDownUpdate - jam419
 - Sheet.update - jam419
 - DrawHelpers.MouseT + MouseButton - jam419
+- Sheet.update - rv519
+- type KeyboardMsg - rv519
 - Sheet.getWireBBox - yw2919
-
-
-
-
