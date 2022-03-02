@@ -1,9 +1,5 @@
-
-## Example content of TeamN.md file
-
 # Team members
 
-* delete this and replace by your team members*
 
 | Name | IC user | github login
 |------|----------|-------------
@@ -54,40 +50,35 @@
 - `getBoundingBoxofSymbol` -jam419
 - `getBoundingBoxes` -jam419
 - `getOneBoundingBox` -jam419
-- `getSymbolPos` -jam419
+- ~~`getSymbolPos` -jam419~~
 - `getInputPortsPositionMap` -jam419
 - `getOutputPortsPositionMap` -jam419
 - `getPortLocations` -jam419
 - `getInputPortLocation` -jam419
 - `getOutputPortLocation` -jam419
-- `getOnePortLocation` -jam419
+- ~~`getOnePortLocation` -jam419~~
 - `getOnePortLocationNew` -jam419
 - `getTwoPortLocations` -jam419
 - `getCopiedSymbols` -jam419
-- `filterString` -jam419
-- `regex` -jam419
-- `getCompList` -jam419
+- `filterString` -> `removeTerminalNumerics` -jam419
+- `regex` -> `getCompLabelNum` -jam419
+- `getCompList` -> `getFilteredCompList` -jam419
 - `getIndex` -jam419
 - `labelGenNumber` -jam419
 - `generateLabel` -jam419
 - `pasteSymbols` -jam419
 - `getEquivalentCopiedPorts` -jam419
 - `addSymbol` -jam419
-- `changeNumberOfBitsf` -jam419
-- `changeLsbf` -jam419
-- `changeConstantf` -jam419
+- ~~`changeNumberOfBitsf` -jam419~~
+- ~~`changeLsbf` -jam419~~
+- ~~`changeConstantf` -jam419~~
 - `update` -jam419
 - `extractComponent` -jam419
 - `extractComponents` -jam419
 
 ### Symbol Function Ownership Changes
 
-<!-- 20 Feb dfun --> tomcl
-
-22 Feb bfun --> login2
-
-*listing changes here as they happen*
-*List anything special here about who did what if needed* -->
+2 March jam419 -> refactoring and removed several functions including `getSymbolPos`, `getOnePortLocation`, `changeNumberOfBitsf`, `changeLsbf`, `changeConstantf` and also renamed functions as above. 
 
 ## Buswire
 
@@ -156,13 +147,15 @@
 - `getPortIdsOfWires` - gk518
 
 
-### Buswire changes
 
 ## Other Module Changes
 
 * any changes made to other modules *
 
-Sheet.interfacefun - tomcl
+- Sheet.mDownUpdate - jam419
+- Sheet.update - jam419
+- DrawHelpers.MouseT + MouseButton - jam419
+
 
 
 
