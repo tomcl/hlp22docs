@@ -82,7 +82,7 @@
 
 ## Buswire
 
-- `convertRISegsToVertices` - yz8819
+- `convertRISegsToVertices` -> `wireToVertices` - yw2919
 - `makeInitialWireVerticesList` - yz8819
 - `xyVerticesToSegments` - yz8819
 - `issieVerticesToRISegments` - yz8819
@@ -95,38 +95,48 @@
 - `singleWireView` - yz8819
 - `view` - yz8819
 
-- `segmentIntersectsSegmentCoordinates` - yw2918
-- `getTopLeftAndBottomRightCorner` - yw2918
-- `segmentIntersectsBoundingBoxCoordinates` - yw2918
-- `distanceFromPointToSegment` - yw2918
-- `routeGivenWiresBasedOnPortPositions` - yw2918
-- `getIntersectingSegments` - yw2918
-- `getClosestSegment` - yw2918
-- `getClickedSegment` - yw2918
-- `checkSegmentAngle` - yw2918
-- `segPointsLeft` - yw2918
-- `segXDelta` - yw2918
-- `moveXJoinPos` - yw2918
-- `changeLengths` - yw2918
-- `getSafeDistanceForMove` - yw2918
-- `removeRedundantSegments` - yw2918
-- `moveSegment` - yw2918
-- `init` - yw2918
-- `getConnectedWires` - yw2918
-- `filterWiresByCompMoved` - yw2918
-- `autorouteWire` - yw2918
-- `revSegments` - yw2918
-- `addPosPos` - yw2918
-- `moveEnd` - yw2918
-- `moveStart` - yw2918
-- `moveAll` - yw2918
-- `transformXY` - yw2918
-- `transformSeg` - yw2918
-- `topology` - yw2918
-- `partialAutoRoute` - yw2918
-- `negXYPos` - yw2918
-- `moveWire` - yw2918
-- `updateWire` - yw2918
+~~- `segmentIntersectsSegmentCoordinates` - yw2919~~
+~~- `routeGivenWiresBasedOnPortPositions` - yw2918~~
+~~- `checkSegmentAngle` - yw2918~~
+~~- `segPointsLeft` - yw2919~~
+~~- `segXDelta` - yw2919~~
+~~- `moveXJoinPos` - yw2919~~
+~~- `changeLengths` - yw2918~~
+~~- `removeRedundantSegments` - yw2918~~
+~~- `addPosPos` - yw2919~~
+~~- `moveEnd` - yw2919~~
+~~- `moveStart` - yw2919~~
+~~- `moveAll` - yw2919~~
+~~- `transformXY` - yw2919~~
+~~- `transformSeg` - yw2919~~
+~~- `topology` - yw2919~~
+~~- `negXYPos` - yw2919~~
+- `segmentIntersectsBoundingBoxCoordinates` -> `segmentIntersectsBoundingBox` - yw2919
+- `Matrix` - yw2919
+- `MTransformation` - yw2919
+- `MInvTransformation` - yw2919
+- `foldOverRISegments` - yw2919
+- `findTransformation` - yw2919
+- `wireToVertices` - yw2919
+- `getTopLeftAndBottomRightCorner` - yw2919
+- `segmentIntersectsBoundingBox` - yw2919
+- `distanceFromPointToSegment` - yw2919
+- `routeGivenWiresBasedOnPortPositions` - yw2919
+- `getIntersectingSegments` - yw2919
+- `getClosestSegment` - yw2919
+- `getClickedSegment` - yw2919
+- `checkSegmentAngle` - yw2919
+- `getSafeDistanceForMove` - yw2919
+- `moveSegment` - yw2919
+- `init` - yw2919
+- `filterWires` - yw2919
+- `getConnectedWires` - yw2919
+- `filterWiresByCompMoved` - yw2919
+- `autorouteWire` - yw2919
+- `revWire` - yw2919
+- `partialAutoRoute` - yw2919
+- `moveWire` - yw2919
+- `updateWire` - yw2919
 
 - `makeAllJumps` - gk518
 - `updateWireSegmentJumps` - gk518
@@ -148,6 +158,7 @@
 - Sheet.mDownUpdate - jam419
 - Sheet.update - jam419
 - DrawHelpers.MouseT + MouseButton - jam419
+- Sheet.getWireBBox - yw2919
 
 
 
