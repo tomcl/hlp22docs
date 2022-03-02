@@ -165,7 +165,6 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 - [Line 2414 - 2419](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2414-L2419): `getIntersectingWires` - bd519
 - [Line 2423 - 2429](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2423-L2429): `getWireIfClicked` - bd519
 - [Line 2432 - 2468](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2432-L2468): `pasteWires` - bd519
-- [Line 2471 - 2474](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2471-L2474): `getPortIdsOfWires` - bd519
 
 
 ### Buswire changes
