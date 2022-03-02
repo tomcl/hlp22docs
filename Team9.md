@@ -84,6 +84,7 @@ Write down every top-level function, in its initial order in files, and who is r
 - update
 - extractComponent
 - extractComponents
+- getPortPos
 
 ### Symbol Changes
 
