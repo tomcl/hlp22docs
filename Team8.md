@@ -30,46 +30,46 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 *keep this list up to date*
 
-- [Line 78 - 78](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L78): `convertDegtoRad` - xw2519
-- [Line 80 - 82](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L80): `convertRelativeToSymbolCenter` - xw2519
-- [Line 84 - 86](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L84): `convertRelativeToTopLeft` - xw2519
-- [Line 88 - 94](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L88): `convertSymbolPointsToString` - xw2519
-- [Line 96 - 97](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L96): `flipSymbol` - xw2519
-- [Line 99 - 99](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L99): `getSymbolPoints` - xw2519
-- [Line 101 - 101](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L101): `posAdd` - xw2519
-- [Line 103 - 103](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L103): `posDiff` - xw2519
-- [Line 105 - 105](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L105): `posOf` - xw2519
-- [Line 107 - 109](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L107): `rotatePoint` - xw2519
-- [Line 111 - 125](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L111): `rotateSymbol` - xw2519
-- [Line 129 - 129](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L129): `init` - xw2519
-- [Line 131 - 203](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L131): `initComponent` - xw2519
-- [Line 205 - 209](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L205): `initSymbolCharacteristics` - xw2519
-- [Line 211 - 274](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L211): `initSymbolPoints` - xw2519
-- [Line 276 - 292](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L276): `makeSymbol` - xw2519
-- [Line 296 - 303](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L296): `addToPortModel` - xw2519
-- [Line 305 - 325](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L305): `getPortPos` - xw2519
-- [Line 327 - 328](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L327): `getModelPortPos` - xw2519
-- [Line 332 - 335](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L332): `addText` - xw2519
-- [Line 339 - 381](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L339): `addPortText` - xw2519
-- [Line 383 - 405](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L383): `addPortTitle` - xw2519
-- [Line 407 - 417](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L407): `addSymbolLabel` - xw2519
-- [Line 419 - 495](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L419): `addSymbolText` - xw2519
-- [Line 499 - 504](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L499): `addOutlineColor` - xw2519
-- [Line 506 - 507](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L506): `createPolygon` - xw2519
-- [Line 509 - 519](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L509): `drawBiColorPolygon` - xw2519
-- [Line 521 - 523](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L521): `drawHorizontalLine` - xw2519
-- [Line 525 - 528](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L525): `drawHorizontalColorLine` - xw2519
-- [Line 530 - 531](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L530): `drawPortCircle` - xw2519
-- [Line 533 - 535](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L533): `drawVerticalLine` - xw2519
-- [Line 537 - 540](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L537): `drawVerticalColorLine` - xw2519
-- [Line 544 - 549](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L544): `drawPorts` - xw2519
-- [Line 551 - 566](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L551): `drawArrow` - xw2519
-- [Line 568 - 604](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L568): `drawSymbolCharacteristics` - xw2519
-- [Line 606 - 675](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L606): `drawSymbolShape` - xw2519
-- [Line 679 - 687](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L679): `createSymbol` - xw2519
-- [Line 696 - 704](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L696): `renderSymbol` - xw2519
-- [Line 706 - 717](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L706): `convertMapsIntoLists` - xw2519
-- [Line 719 - 729](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Symbol.fs#L719): `view` - xw2519
+- [Line 82 - 82](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L82-L82): `convertDegtoRad` - xw2519
+- [Line 84 - 86](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L84-L86): `convertRelativeToSymbolCenter` - xw2519
+- [Line 88 - 90](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L88-L90): `convertRelativeToTopLeft` - xw2519
+- [Line 92 - 98](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L92-L98): `convertSymbolPointsToString` - xw2519
+- [Line 100 - 101](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L100-L101): `flipSymbol` - xw2519
+- [Line 103 - 103](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L103-L103): `getSymbolPoints` - xw2519
+- [Line 105 - 105](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L105-L105): `posAdd` - xw2519
+- [Line 107 - 107](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L107-L107): `posDiff` - xw2519
+- [Line 109 - 109](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L109-L109): `posOf` - xw2519
+- [Line 111 - 113](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L111-L113): `rotatePoint` - xw2519
+- [Line 115 - 129](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L115-L129): `rotateSymbol` - xw2519
+- [Line 133 - 133](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L133-L133): `init` - xw2519
+- [Line 135 - 207](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L135-L207): `initComponent` - xw2519
+- [Line 209 - 213](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L209-L213): `initSymbolCharacteristics` - xw2519
+- [Line 215 - 278](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L215-L278): `initSymbolPoints` - xw2519
+- [Line 280 - 296](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L280-L296): `makeSymbol` - xw2519
+- [Line 300 - 307](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L300-L307): `addToPortModel` - xw2519
+- [Line 309 - 329](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L309-L329): `getPortPos` - xw2519
+- [Line 331 - 332](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L331-L332): `getModelPortPos` - xw2519
+- [Line 336 - 339](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L336-L339): `addText` - xw2519
+- [Line 343 - 385](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L343-L385): `addPortText` - xw2519
+- [Line 387 - 409](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L387-L409): `addPortTitle` - xw2519
+- [Line 411 - 421](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L411-L421): `addSymbolLabel` - xw2519
+- [Line 423 - 499](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L423-L499): `addSymbolText` - xw2519
+- [Line 503 - 508](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L503-L508): `addOutlineColor` - xw2519
+- [Line 510 - 511](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L510-L511): `createPolygon` - xw2519
+- [Line 513 - 523](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L513-L523): `drawBiColorPolygon` - xw2519
+- [Line 525 - 527](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L525-L527): `drawHorizontalLine` - xw2519
+- [Line 529 - 532](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L529-L532): `drawHorizontalColorLine` - xw2519
+- [Line 534 - 535](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L534-L535): `drawPortCircle` - xw2519
+- [Line 537 - 539](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L537-L539): `drawVerticalLine` - xw2519
+- [Line 541 - 544](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L541-L544): `drawVerticalColorLine` - xw2519
+- [Line 548 - 553](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L548-L553): `drawPorts` - xw2519
+- [Line 555 - 570](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L555-L570): `drawArrow` - xw2519
+- [Line 572 - 608](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L572-L608): `drawSymbolCharacteristics` - xw2519
+- [Line 610 - 679](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L610-L679): `drawSymbolShape` - xw2519
+- [Line 683 - 691](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L683-L691): `createSymbol` - xw2519
+- [Line 700 - 708](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L700-L708): `renderSymbol` - xw2519
+- [Line 710 - 721](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L710-L721): `convertMapsIntoLists` - xw2519
+- [Line 723 - 733](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L723-L733): `view` - xw2519
 - `getBoundingBoxofSymbol` -lg519
 - `getBoundingBoxes` -lg519
 - `getOneBoundingBox` -lg519
@@ -156,17 +156,16 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 - `moveWire` - tlp19
 - `updateWire` - tlp19
 
-
-- `makeAllJumps` - bd519
-- `updateWireSegmentJumps` - bd519
-- `resetWireSegmentJumps` - bd519
-- `updateWires` - bd519
-- `update` - bd519
-- `wireIntersectsBoundingBox` - bd519
-- `getIntersectingWires` - bd519
-- `getWireIfClicked` - bd519
-- `pasteWires` - bd519
-- `getPortIdsOfWires` - bd519
+- [Line 1906 - 2016](https://github.com/xw2519/HLP-Project-2022-Team_8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L1906-L2016): `makeAllJumps` - bd519
+- [Line 2024 - 2088](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2024-L2088): `computeWireSplitCoord` - bd519
+- [Line 2102 - 2109](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2102-L2109): `updateOrResetWireSegmentJumps` - bd519
+- [Line 2116 - 2134](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2116-L2134): `updateWires` - bd519
+- [Line 2137 - 2403](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2137-L2403): `update` - bd519
+- [Line 2408 - 2410](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2408-L2410): `wireIntersectsBoundingBox` - bd519
+- [Line 2414 - 2419](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2414-L2419): `getIntersectingWires` - bd519
+- [Line 2423 - 2429](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2423-L2429): `getWireIfClicked` - bd519
+- [Line 2432 - 2468](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2432-L2468): `pasteWires` - bd519
+- [Line 2471 - 2474](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2471-L2474): `getPortIdsOfWires` - bd519
 
 
 ### Buswire changes
@@ -178,11 +177,11 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 ## Other Module Changes
 
-- 27 Feb: [Line 824 - 1112](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Sheet.fs#L850): `Sheet.fs: update` - xw2519 
+- 27 Feb: Line 824 - 1112: `Sheet.fs: update` - xw2519 
   
     Modified `update` function to register keypresses `R` and `F` and call the associated functions.
 
-- 27 Feb: [Line 160 - 181](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/Renderer.fs#L177): `Renderer.fs: editMenu` - xw2519 
+- 27 Feb: Line 160 - 181: `Renderer.fs: editMenu` - xw2519 
 
     Modified `editMenu` to recognise keypresses `R` and `F`.
 
@@ -190,6 +189,13 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
     Simplified logic to conform to ISSIE guidelines.
 
+- 1 Mar: Line 913 - 915: `Sheet.fs: update` - bd519 
+  
+    Modified `update` function to register keypresse `Ctrl+M` and call the associated functions.
+    
+- 1 Mar: Line 160 - 181: `Renderer.fs: editMenu` - bd519 
+
+    Modified `editMenu` to recognise keypresses `Ctrl+M`.
 
 
 
