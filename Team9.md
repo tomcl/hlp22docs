@@ -177,6 +177,7 @@ _listing changes here as they happen_
 ### Buswire changes
 - 21/02 foldOverSegs -> sts219
 - 21/02 wireIntersectsBoundingBox -> sts219
+- 28/02 update (Rotate Msg) -> sts219
 
 ## Other Module Changes
 
