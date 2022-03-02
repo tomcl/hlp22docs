@@ -82,24 +82,17 @@
 
 ## Buswire
 
-- `segmentsToVertices` - yz8819
+- `convertRISegsToVertices` - yz8819
 - `makeInitialWireVerticesList` - yz8819
-- `inferDirectionfromVertices` - yz8819
 - `xyVerticesToSegments` - yz8819
-- `issieVerticesToSegments` - yz8819
+- `issieVerticesToRISegments` - yz8819
 - `extractConnection` - yz8819
 - `extractConnections` - yz8819
 - `onSegment` - yz8819
-- `orientation` - yz8819
-- `getAbsXY` - yz8819
-- `segmentIntersectsSegment` - yz8819
-- `makeSegPos` - yz8819
-- `distanceBetweenTwoPoints` - yz8819
-- `makeInitialSegmentsList` - yz8819
+- `segmentIntersectsSegmentRI` - yz8819
+- `makeInitialRISegmentsList` - yz8819
 - `renderSegment` - yz8819
-- `memoOf` - yz8819
 - `singleWireView` - yz8819
-- `MapToSortedList` - yz8819
 - `view` - yz8819
 
 - `segmentIntersectsSegmentCoordinates` - yw2918
