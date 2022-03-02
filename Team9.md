@@ -184,3 +184,6 @@ _listing changes here as they happen_
 - any changes made to other modules \*
 
 DrawHelpers.BoundingBox - sts219 (updated references in Sheet.fs to work with new BoundingBox type)
+Sheet.Msg - pr2518 (added new message types to make Flipping and Rotation work and added new cases to the update function)
+Renderer - pr2518 (added new edit menu options)
+
