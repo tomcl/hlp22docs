@@ -1,18 +1,17 @@
-
 ## Example content of TeamN.md file
 
 # Team members
 
-* delete this and replace by your team members*
+- delete this and replace by your team members\*
 
-| Name | IC user | github login
-|------|----------|-------------
-| Josiah Mendes | jam419 | JosiahMendes
-| Raghav Viswakumar | rv519 | Ragviswa
-| Matei Tanase | mt1819 | Matteus247
-| Yuliang Zhu | yz8819 | JasonZhuYL
-| Yujie Wang | yw2919 | 0x6770
-| Gowoon Kim | gk518 | woonmoon
+| Name              | IC user | github login |
+| ----------------- | ------- | ------------ |
+| Josiah Mendes     | jam419  | JosiahMendes |
+| Raghav Viswakumar | rv519   | Ragviswa     |
+| Matei Tanase      | mt1819  | Matteus247   |
+| Yuliang Zhu       | yz8819  | JasonZhuYL   |
+| Yujie Wang        | yw2919  | 0x6770       |
+| Gowoon Kim        | gk518   | woonmoon     |
 
 # Individual Contributions
 
@@ -86,12 +85,11 @@
 
 22 Feb bfun --> login2
 
-*listing changes here as they happen*
-*List anything special here about who did what if needed* -->
+_listing changes here as they happen_
+_List anything special here about who did what if needed_ -->
 
 ## Buswire
 
-- `segmentsToVertices` - yz8819
 - `makeInitialWireVerticesList` - yz8819
 - `inferDirectionfromVertices` - yz8819
 - `xyVerticesToSegments` - yz8819
@@ -111,38 +109,31 @@
 - `MapToSortedList` - yz8819
 - `view` - yz8819
 
-- `segmentIntersectsSegmentCoordinates` - yw2918
-- `getTopLeftAndBottomRightCorner` - yw2918
-- `segmentIntersectsBoundingBoxCoordinates` - yw2918
-- `distanceFromPointToSegment` - yw2918
-- `routeGivenWiresBasedOnPortPositions` - yw2918
-- `getIntersectingSegments` - yw2918
-- `getClosestSegment` - yw2918
-- `getClickedSegment` - yw2918
-- `checkSegmentAngle` - yw2918
-- `segPointsLeft` - yw2918
-- `segXDelta` - yw2918
-- `moveXJoinPos` - yw2918
-- `changeLengths` - yw2918
-- `getSafeDistanceForMove` - yw2918
-- `removeRedundantSegments` - yw2918
-- `moveSegment` - yw2918
-- `init` - yw2918
-- `getConnectedWires` - yw2918
-- `filterWiresByCompMoved` - yw2918
-- `autorouteWire` - yw2918
-- `revSegments` - yw2918
-- `addPosPos` - yw2918
-- `moveEnd` - yw2918
-- `moveStart` - yw2918
-- `moveAll` - yw2918
-- `transformXY` - yw2918
-- `transformSeg` - yw2918
-- `topology` - yw2918
-- `partialAutoRoute` - yw2918
-- `negXYPos` - yw2918
-- `moveWire` - yw2918
-- `updateWire` - yw2918
+* `Matrix` - yw2919
+* `MTransformation` - yw2919
+* `MInvTransformation` - yw2919
+* `foldOverRISegments` - yw2919
+* `findTransformation` - yw2919
+- `wireToVertices` - yw2919
+- `getTopLeftAndBottomRightCorner` - yw2919
+- `segmentIntersectsBoundingBox` - yw2919
+- `distanceFromPointToSegment` - yw2919
+- `routeGivenWiresBasedOnPortPositions` - yw2919
+- `getIntersectingSegments` - yw2919
+- `getClosestSegment` - yw2919
+- `getClickedSegment` - yw2919
+- `checkSegmentAngle` - yw2919
+- `getSafeDistanceForMove` - yw2919
+- `moveSegment` - yw2919
+- `init` - yw2919
+- `filterWires` - yw2919
+- `getConnectedWires` - yw2919
+- `filterWiresByCompMoved` - yw2919
+- `autorouteWire` - yw2919
+- `revWire` - yw2919
+- `partialAutoRoute` - yw2919
+- `moveWire` - yw2919
+- `updateWire` - yw2919
 
 - `makeAllJumps` - gk518
 - `updateWireSegmentJumps` - gk518
@@ -155,14 +146,11 @@
 - `pasteWires` - gk518
 - `getPortIdsOfWires` - gk518
 
-
 ### Buswire changes
 
 ## Other Module Changes
 
-* any changes made to other modules *
+- any changes made to other modules \*
 
 Sheet.interfacefun - tomcl
-
-
-
+Sheet.getWireBBox - yw2919
