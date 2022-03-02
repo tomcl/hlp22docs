@@ -13,57 +13,19 @@
 # Individual Contributions
 
 ## Symbol
-
-- `posDiff` - rv519
-- `posAdd` - rv519
-~~- `posOf` - rv519~~
-- **New** `rotatePorts` - rv519
-- `addText` - rv519
-~~- `title` - rv519~~
-- `busTitle` -> `getbusTitle` - rv519
-- `prefix` -> `getSymbolLabel` - rv519
-- `gateDecoderType` -> `getSymbolTitle` - rv519
-- `portDecName` -> `getSymbolPortsTitle` - rv519
-~~- `portList` - rv519~~
-~~- `customToLength` - rv519~~
-- `makeComp` -> `createNewComponent` - rv519
-- **New** `createPortsLoc` - rv519
-- `createNewSymbol` - rv519
-- **New** `movePortClockwise` - rv519
-- **New** `movePortCounterClockwise` - rv519
-- `addToPortModel` - rv519
-~~- `getPortPosEdgeGap` - rv519~~
-- **New** `getPortPosLoc` - rv519
-- `getPortPos` - rv519
-~~- `getPortPosModel` - rv519~~
-~~- `portCircles` - rv519~~
-- **New** `portText` - rv519
-- `drawPortsText` - rv519
-- `drawPorts` - rv519
-~~- `createPolygon` - rv519~~
-~~- `createBiColorPolygon` - rv519~~
-- `addInvertor` - rv519
-- `addClock` - rv519
-~~- `addHorizontalLine` rv519~~
-~~- `outlineColor` - rv519~~
-- `addHorizontalColorLine` -> `drawLine rv519
-- `compSymbol` -> `drawSymbol` rv519
-- `init` - rv519
-- `RenderSymbolProps` - rv519
-- `renderSymbol` - rv519
-~~- `MapsIntoLists` - rv519`~~
-- `view` - rv519
 - `posDiff` - mt1819
 - `posAdd` - mt1819
-- `posOf` - mt1819
-- `symbolTitle` - mt1819
-- `busTitle` - mt1819
+- `posOf` - mt1819 -> removed
+- `symbolTitle` - mt1819 -> merged and removed
+- `busTitle` - mt1819 -> merged and removed
+- `addBusTitle` - mt1819 -> merge result of the two above functions
 - `prefix` - mt1819
-- `gateDecoderType` - mt1819
-- `portDecName` - mt1819
-- `portList` - mt1819
+- `gateDecoderType` - mt1819 -> setCompTitle
+- `portDecName` - mt1819 -> mapPortNames
+- `portList` - mt1819 -> makePortList
 - `customToLength` - mt1819
 - `makeComp` - mt1819
+- `symbolPortArgs` - mt1819 -> New
 - `createNewSymbol` - mt1819
 - `addToPortModel` - mt1819
 - `getPortPosEdgeGap` - mt1819
@@ -86,6 +48,51 @@
 - `renderSymbol` - mt1819
 - `MapsIntoLists` - mt1819
 - `view` - mt1819
+
+- `posDiff` - rv519
+- `posAdd` - rv519
+- ~~- `posOf` - rv519~~
+- **New** `rotatePorts` - rv519
+- `posDiff` - rv519
+- `posAdd` - rv519
+- ~~- `posOf` - rv519~~
+- **New** rotatePorts - rv519
+- `addText` - rv519
+- ~~- `title` - rv519~~
+- `busTitle` -> `getbusTitle` - rv519
+- `prefix` -> `getSymbolLabel` - rv519
+- `gateDecoderType` -> `getSymbolTitle` - rv519
+- `portDecName` -> `getSymbolPortsTitle` - rv519
+- ~~- `portList` - rv519~~
+- ~~- `customToLength` - rv519~~
+- `makeComp` -> createNewComponent - rv519
+- **New** `createPortsLoc` - rv519
+- `createNewSymbol` - rv519
+- **New** `movePortClockwise` - rv519
+- **New** `movePortCounterClockwise` - rv519
+- `addToPortModel` - rv519
+- ~~- `getPortPosEdgeGap` - rv519~~
+- **New** `getPortPosLoc` - rv519
+- `getPortPos` - rv519
+- ~~- `getPortPosModel` - rv519~~
+- ~~- `portCircles` - rv519~~
+- **New** `portText` - rv519
+- `drawPortsText` - rv519
+- `drawPorts` - rv519
+- ~~- `createPolygon` - rv519~~
+- ~~- `createBiColorPolygon` - rv519~~
+- `addInvertor` - rv519
+- `addClock` - rv519
+- ~~- `addHorizontalLine` rv519~~
+- ~~- `outlineColor` - rv519~~
+- `addHorizontalColorLine` -> `drawLine rv519
+- `compSymbol` -> `drawSymbol` rv519
+- `init` - rv519
+- `RenderSymbolProps` - rv519
+- `renderSymbol` - rv519
+- ~~- `MapsIntoLists` - rv519`~~
+- `view` - rv519
+
 - `getBoundingBoxofSymbol` -jam419
 - `getBoundingBoxes` -jam419
 - `getOneBoundingBox` -jam419
@@ -123,7 +130,7 @@
 
 ## Buswire
 
-- `convertRISegsToVertices` - yz8819
+- `convertRISegsToVertices` -> `wireToVertices` - yw2919
 - `makeInitialWireVerticesList` - yz8819
 - `xyVerticesToSegments` - yz8819
 - `issieVerticesToRISegments` - yz8819
@@ -136,38 +143,48 @@
 - `singleWireView` - yz8819
 - `view` - yz8819
 
-- `segmentIntersectsSegmentCoordinates` - yw2918
-- `getTopLeftAndBottomRightCorner` - yw2918
-- `segmentIntersectsBoundingBoxCoordinates` - yw2918
-- `distanceFromPointToSegment` - yw2918
-- `routeGivenWiresBasedOnPortPositions` - yw2918
-- `getIntersectingSegments` - yw2918
-- `getClosestSegment` - yw2918
-- `getClickedSegment` - yw2918
-- `checkSegmentAngle` - yw2918
-- `segPointsLeft` - yw2918
-- `segXDelta` - yw2918
-- `moveXJoinPos` - yw2918
-- `changeLengths` - yw2918
-- `getSafeDistanceForMove` - yw2918
-- `removeRedundantSegments` - yw2918
-- `moveSegment` - yw2918
-- `init` - yw2918
-- `getConnectedWires` - yw2918
-- `filterWiresByCompMoved` - yw2918
-- `autorouteWire` - yw2918
-- `revSegments` - yw2918
-- `addPosPos` - yw2918
-- `moveEnd` - yw2918
-- `moveStart` - yw2918
-- `moveAll` - yw2918
-- `transformXY` - yw2918
-- `transformSeg` - yw2918
-- `topology` - yw2918
-- `partialAutoRoute` - yw2918
-- `negXYPos` - yw2918
-- `moveWire` - yw2918
-- `updateWire` - yw2918
+- ~~`segmentIntersectsSegmentCoordinates` - yw2919~~
+- ~~`routeGivenWiresBasedOnPortPositions` - yw2918~~
+- ~~`checkSegmentAngle` - yw2918~~
+- ~~`segPointsLeft` - yw2919~~
+- ~~`segXDelta` - yw2919~~
+- ~~`moveXJoinPos` - yw2919~~
+- ~~`changeLengths` - yw2918~~
+- ~~`removeRedundantSegments` - yw2918~~
+- ~~`addPosPos` - yw2919~~
+- ~~`moveEnd` - yw2919~~
+- ~~`moveStart` - yw2919~~
+- ~~`moveAll` - yw2919~~
+- ~~`transformXY` - yw2919~~
+- ~~`transformSeg` - yw2919~~
+- ~~`topology` - yw2919~~
+- ~~`negXYPos` - yw2919~~
+- `segmentIntersectsBoundingBoxCoordinates` -> `segmentIntersectsBoundingBox` - yw2919
+- `Matrix` - yw2919
+- `MTransformation` - yw2919
+- `MInvTransformation` - yw2919
+- `foldOverRISegments` - yw2919
+- `findTransformation` - yw2919
+- `wireToVertices` - yw2919
+- `getTopLeftAndBottomRightCorner` - yw2919
+- `segmentIntersectsBoundingBox` - yw2919
+- `distanceFromPointToSegment` - yw2919
+- `routeGivenWiresBasedOnPortPositions` - yw2919
+- `getIntersectingSegments` - yw2919
+- `getClosestSegment` - yw2919
+- `getClickedSegment` - yw2919
+- `checkSegmentAngle` - yw2919
+- `getSafeDistanceForMove` - yw2919
+- `moveSegment` - yw2919
+- `init` - yw2919
+- `filterWires` - yw2919
+- `getConnectedWires` - yw2919
+- `filterWiresByCompMoved` - yw2919
+- `autorouteWire` - yw2919
+- `revWire` - yw2919
+- `partialAutoRoute` - yw2919
+- `moveWire` - yw2919
+- `updateWire` - yw2919
 
 - `makeAllJumps` - gk518
 - `updateWireSegmentJumps` - gk518
@@ -191,6 +208,4 @@
 - DrawHelpers.MouseT + MouseButton - jam419
 - Sheet.update - rv519
 - type KeyboardMsg - rv519
-
-
-
+- Sheet.getWireBBox - yw2919

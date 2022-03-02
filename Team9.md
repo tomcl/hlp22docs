@@ -84,12 +84,10 @@ Write down every top-level function, in its initial order in files, and who is r
 - update
 - extractComponent
 - extractComponents
-- getPortPos
 
 ### Symbol Changes
 
-20 Feb dfun --> tomcl
-22 Feb bfun --> login2
+23 Feb getPortPos --> pr2518
 
 _listing changes here as they happen_
 
@@ -179,9 +177,13 @@ _listing changes here as they happen_
 ### Buswire changes
 - 21/02 foldOverSegs -> sts219
 - 21/02 wireIntersectsBoundingBox -> sts219
+- 28/02 update (Rotate Msg) -> sts219
 
 ## Other Module Changes
 
 - any changes made to other modules \*
 
 DrawHelpers.BoundingBox - sts219 (updated references in Sheet.fs to work with new BoundingBox type)
+Sheet.Msg - pr2518 (added new message types to make Flipping and Rotation work and added new cases to the update function)
+Renderer - pr2518 (added new edit menu options)
+
