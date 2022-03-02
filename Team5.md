@@ -4,7 +4,7 @@
 | Name | IC user | github login
 |------|----------|-------------
 | Josiah Mendes | jam419 | JosiahMendes
-| Raghav Viswakumar | rv519 | Ragviswaa
+| Raghav Viswakumar | rv519 | Ragviswa
 | Matei Tanase | mt1819 | Matteus247
 | Yuliang Zhu | yz8819 | JasonZhuYL
 | Yujie Wang | yw2919 | 0x6770
