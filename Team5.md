@@ -4,7 +4,7 @@
 | Name | IC user | github login
 |------|----------|-------------
 | Josiah Mendes | jam419 | JosiahMendes
-| Raghav Viswakumar | rv519 | Ragviswa
+| Raghav Viswakumar | rv519 | Ragviswaa
 | Matei Tanase | mt1819 | Matteus247
 | Yuliang Zhu | yz8819 | JasonZhuYL
 | Yujie Wang | yw2919 | 0x6770
@@ -14,39 +14,78 @@
 
 ## Symbol
 
-- `posDiff` - rv519/mt1819
-- `posAdd` - rv519/mt1819
-- `posOf` - rv519/mt1819
-- `symbolTitle` - rv519/mt1819
-- `busTitle` - rv519/mt1819
-- `prefix` - rv519/mt1819
-- `gateDecoderType` - rv519/mt1819
-- `portDecName` - rv519/mt1819
-- `portList` - rv519/mt1819
-- `customToLength` - rv519/mt1819
-- `makeComp` - rv519/mt1819
-- `createNewSymbol` - rv519/mt1819
-- `addToPortModel` - rv519/mt1819
-- `getPortPosEdgeGap` - rv519/mt1819
-- `getPortPos` - rv519/mt1819
-- `getPortPosModel` - rv519/mt1819
-- `addText` - rv519/mt1819
-- `portCircles` - rv519/mt1819
-- `drawPortsText` - rv519/mt1819
-- `drawPorts` - rv519/mt1819
-- `createPolygon` - rv519/mt1819
-- `createBiColorPolygon` - rv519/mt1819
-- `addInvertor` - rv519/mt1819
-- `addClock` - rv519/mt1819
-- `addHorizontalLine` - rv519/mt1819
-- `outlineColor` - rv519/mt1819
-- `addHorizontalColorLine` - rv519/mt1819
-- `compSymbol` - rv519/mt1819
-- `init` - rv519/mt1819
-- `RenderSymbolProps` - rv519/mt1819
-- `renderSymbol` - rv519/mt1819
-- `MapsIntoLists` - rv519/mt1819
-- `view` - rv519/mt1819
+- `posDiff` - rv519
+- `posAdd` - rv519
+~~- `posOf` - rv519~~
+- **New** rotatePorts - rv519
+- `addText` - rv519
+~~- `title` - rv519~~
+- `busTitle` -> `getbusTitle` - rv519
+- `prefix` -> `getSymbolLabel` - rv519
+- `gateDecoderType` -> `getSymbolTitle` - rv519
+- `portDecName` -> `getSymbolPortsTitle` - rv519
+~~- `portList` - rv519~~
+~~- `customToLength` - rv519~~
+- `makeComp` -> createNewComponent - rv519
+- **New** `createPortsLoc` - rv519
+- `createNewSymbol` - rv519
+- **New** `movePortClockwise` - rv519
+- **New** `movePortCounterClockwise` - rv519
+- `addToPortModel` - rv519
+~~- `getPortPosEdgeGap` - rv519~~
+- **New** `getPortPosLoc` - rv519
+- `getPortPos` - rv519
+~~- `getPortPosModel` - rv519~~
+~~- `portCircles` - rv519~~
+- **New** `portText` - rv519
+- `drawPortsText` - rv519
+- `drawPorts` - rv519
+~~- `createPolygon` - rv519~~
+~~- `createBiColorPolygon` - rv519~~
+- `addInvertor` - rv519
+- `addClock` - rv519
+~~- `addHorizontalLine` rv519~~
+~~- `outlineColor` - rv519~~
+- `addHorizontalColorLine` -> `drawLine rv519
+- `compSymbol` -> `drawSymbol` rv519
+- `init` - rv519
+- `RenderSymbolProps` - rv519
+- `renderSymbol` - rv519
+~~- `MapsIntoLists` - rv519`~~
+- `view` - rv519
+- `posDiff` - mt1819
+- `posAdd` - mt1819
+- `posOf` - mt1819
+- `symbolTitle` - mt1819
+- `busTitle` - mt1819
+- `prefix` - mt1819
+- `gateDecoderType` - mt1819
+- `portDecName` - mt1819
+- `portList` - mt1819
+- `customToLength` - mt1819
+- `makeComp` - mt1819
+- `createNewSymbol` - mt1819
+- `addToPortModel` - mt1819
+- `getPortPosEdgeGap` - mt1819
+- `getPortPos` - mt1819
+- `getPortPosModel` - mt1819
+- `addText` - mt1819
+- `portCircles` - mt1819
+- `drawPortsText` - mt1819
+- `drawPorts` - mt1819
+- `createPolygon` - mt1819
+- `createBiColorPolygon` - mt1819
+- `addInvertor` - mt1819
+- `addClock` - mt1819
+- `addHorizontalLine` - mt1819
+- `outlineColor` - mt1819
+- `addHorizontalColorLine` - mt1819
+- `compSymbol` - mt1819
+- `init` - mt1819
+- `RenderSymbolProps` - mt1819
+- `renderSymbol` - mt1819
+- `MapsIntoLists` - mt1819
+- `view` - mt1819
 - `getBoundingBoxofSymbol` -jam419
 - `getBoundingBoxes` -jam419
 - `getOneBoundingBox` -jam419
@@ -79,6 +118,8 @@
 ### Symbol Function Ownership Changes
 
 2 March jam419 -> refactoring and removed several functions including `getSymbolPos`, `getOnePortLocation`, `changeNumberOfBitsf`, `changeLsbf`, `changeConstantf` and also renamed functions as above. 
+
+2 March rv519 -> Refactoring and removed several functions including `MapsIntoLists`, `outlineColor`, `addHorizontalLine`, `createBiColorPolygon`, `createPolygon`, `portCircles`, `getPortPosModel`, `getPortPosEdgeGap`, `customToLength`, `portList`, `title`, `posOf`. Additionally renamed and added functions as above. 
 
 ## Buswire
 
@@ -148,7 +189,6 @@
 - Sheet.mDownUpdate - jam419
 - Sheet.update - jam419
 - DrawHelpers.MouseT + MouseButton - jam419
-
 
 
 
