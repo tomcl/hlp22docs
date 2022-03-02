@@ -178,11 +178,11 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 ## Other Module Changes
 
-- 27 Feb: [Line 824 - 1112](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Sheet.fs#L850): `Sheet.fs: update` - xw2519 
+- 27 Feb: Line 824 - 1112: `Sheet.fs: update` - xw2519 
   
     Modified `update` function to register keypresses `R` and `F` and call the associated functions.
 
-- 27 Feb: [Line 160 - 181](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/Renderer.fs#L177): `Renderer.fs: editMenu` - xw2519 
+- 27 Feb: Line 160 - 181: `Renderer.fs: editMenu` - xw2519 
 
     Modified `editMenu` to recognise keypresses `R` and `F`.
 
@@ -190,6 +190,13 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
     Simplified logic to conform to ISSIE guidelines.
 
+- 1 Mar: Line 913 - 915: `Sheet.fs: update` - bd519 
+  
+    Modified `update` function to register keypresse `Ctrl+M` and call the associated functions.
+    
+- 1 Mar: Line 160 - 181: `Renderer.fs: editMenu` - bd519 
+
+    Modified `editMenu` to recognise keypresses `Ctrl+M`.
 
 
 
