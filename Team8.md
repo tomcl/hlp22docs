@@ -156,17 +156,16 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 - `moveWire` - tlp19
 - `updateWire` - tlp19
 
-
-- `makeAllJumps` - bd519
-- `updateWireSegmentJumps` - bd519
-- `resetWireSegmentJumps` - bd519
-- `updateWires` - bd519
-- `update` - bd519
-- `wireIntersectsBoundingBox` - bd519
-- `getIntersectingWires` - bd519
-- `getWireIfClicked` - bd519
-- `pasteWires` - bd519
-- `getPortIdsOfWires` - bd519
+- [Line 1906 - 2016](https://github.com/xw2519/HLP-Project-2022-Team_8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L1906-L2016): `makeAllJumps` - bd519
+- [Line 2024 - 2088](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2024-L2088): `computeWireSplitCoord` - bd519
+- [Line 2102 - 2109](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2102-L2109): `updateOrResetWireSegmentJumps` - bd519
+- [Line 2116 - 2134](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2116-L2134): `updateWires` - bd519
+- [Line 2137 - 2403](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2137-L2403): `update` - bd519
+- [Line 2408 - 2410](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2408-L2410): `wireIntersectsBoundingBox` - bd519
+- [Line 2414 - 2419](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2414-L2419): `getIntersectingWires` - bd519
+- [Line 2423 - 2429](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2423-L2429): `getWireIfClicked` - bd519
+- [Line 2432 - 2468](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2432-L2468): `pasteWires` - bd519
+- [Line 2471 - 2474](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/d27d4c07909365bae120d256b34ba3fb0002b7ec/src/Renderer/DrawBlock/BusWire.fs#L2471-L2474): `getPortIdsOfWires` - bd519
 
 
 ### Buswire changes
@@ -178,11 +177,11 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
 ## Other Module Changes
 
-- 27 Feb: [Line 824 - 1112](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/DrawBlock/Sheet.fs#L850): `Sheet.fs: update` - xw2519 
+- 27 Feb: Line 824 - 1112: `Sheet.fs: update` - xw2519 
   
     Modified `update` function to register keypresses `R` and `F` and call the associated functions.
 
-- 27 Feb: [Line 160 - 181](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/0e517e099437c23ac5792b14e940bec50300685d/src/Renderer/Renderer.fs#L177): `Renderer.fs: editMenu` - xw2519 
+- 27 Feb: Line 160 - 181: `Renderer.fs: editMenu` - xw2519 
 
     Modified `editMenu` to recognise keypresses `R` and `F`.
 
@@ -190,6 +189,13 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 
     Simplified logic to conform to ISSIE guidelines.
 
+- 1 Mar: Line 913 - 915: `Sheet.fs: update` - bd519 
+  
+    Modified `update` function to register keypresse `Ctrl+M` and call the associated functions.
+    
+- 1 Mar: Line 160 - 181: `Renderer.fs: editMenu` - bd519 
+
+    Modified `editMenu` to recognise keypresses `Ctrl+M`.
 
 
 
