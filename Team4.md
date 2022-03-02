@@ -257,7 +257,7 @@ moveWire - ib119
 
 updateWire - ib119
 
-makeAllJumps - pab5118
+makeAllJumps - pab5118 (Line 1445)
 
 updateWireSegmentJumps - pab5118
 
@@ -273,7 +273,7 @@ getIntersectingWires - pab5118
 
 getWireIfClicked - pab5118
 
-pasteWires - pab5118
+pasteWires - pab5118 (End of file)
 
 getPortIdsOfWires - pab5118
 
@@ -282,3 +282,11 @@ getPortIdsOfWires - pab5118
 ### Buswire Function Ownership Changes
 
 ## Other Module Changes
+
+getPortIdsOfWires REMOVED (pab5118)
+
+resetWireSegmentJumps REMOVED (pab5118)
+
+findFirstWireTurn ADDED (pab5118) (Line 164)
+
+findIntersectionCoordinates ADDED (pab5118) (Line 164)
