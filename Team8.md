@@ -70,35 +70,28 @@ Any member of Team can submit PRs to my repo for their team at any time, every c
 - [Line 700 - 708](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L700-L708): `renderSymbol` - xw2519
 - [Line 710 - 721](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L710-L721): `convertMapsIntoLists` - xw2519
 - [Line 723 - 733](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/824810d5f7c135d58a55ca1fa909e6a1c7bca9c6/src/Renderer/DrawBlock/Symbol.fs#L723-L733): `view` - xw2519
-- [Line 510-512](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L511) `getBoundingBoxofSymbol` -lg519
-- [Line 514-515](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L514)`getBoundingBoxes` -lg519
-- [Line 517-519](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L517)`getOneBoundingBox` -lg519
-- [Line 524-526](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L524)`getSymbolPos` -lg519
-- [Line 531-535](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L531)`getInputPortsPositionMap` -lg519
-- [Line 540-544](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L540)`getOutputPortsPositionMap` -lg519
-- [Line 547-548](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L547)`getPort` -lg519
-- [Line 551-556](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L551)`getPortLocations` -lg519
-- [Line 564-571](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L564)`getInputPortLocation` -lg519
-- [Line 575-582](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L575)`getOutputPortLocation` -lg519
-- [Line 585-590](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L585)`getOnePortLocation` -lg519
-- [Line 594-602](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L594)`getOnePortLocationNew` -lg519
-- [Line 606-609](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L606)`getTwoPortLocations` -lg519
-- [Line 612-615](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L612)`getCopiedSymbols` -lg519
-- [Line 619-625](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L619)`filterString` -lg519
-- [Line 629-632](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L628)`regex` -lg519
-- [Line 634-731](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L634)`getCompList`
-- [Line 733-745](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L733)`getIndex` -lg519
-- [Line 748-752](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L748)`labelGenNumber` -lg519
-- [Line 755-756](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L755)`generateLabel` -lg519
-- [Line 760-788](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L760)`pasteSymbols` -lg519
-- [Line 794-823](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L794)`getEquivalentCopiedPorts` -lg519
-- [Line 827-831](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L827)`addSymbol` -lg519
-- [Line 834-853](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L834)`changeNumberOfBitsf` -lg519
-- [Line 856-865](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L834)`changeLsbf` -lg519
-- [Line 867-875](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L867)`changeConstantf` -lg519
-- [Line 878-1052](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L878)`update` -lg519
-- [Line 1055-1056](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L1055)`extractComponent` -lg519
-- [Line 1058-1061](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/cc57081d5213e7f671d90e73de99beebeda5640d/src/Renderer/DrawBlock/Symbol.fs#L1058)`extractComponents` -lg519
+- [Line 636 - 652](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L636) `getSymBoundingBox` -lg519
+- [Line 651-652](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L651) `getModelBoundingBoxes` -lg519
+- [Line 655-657](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L655)`getCmpBoundingBox` -lg519
+- [Line 663-664](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L663)`getPort` -lg519
+- [Line 667-690](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L667)`getCmpsPortLocations` -lg519
+- [Line 693-698](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L693)`getInputPortLocation` -lg519
+- [Line 702-707](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L702)`getOutputPortLocation` -lg519
+- [Line 714-719](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L714)`genCmpLabel` -lg519
+- [Line 727-734](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L724)`addSymToSymbolsCount` -lg519
+- [Line 737-750](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L737)`removeSymsFromSymbolsCount` -lg519
+- [Line 755-760](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L755)`addSymToModel` -lg519
+- [Line 764-767](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L764)`getCopiedSymbolsIds` -lg519
+- [Line 773-815](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L773)`pasteSymbols` -lg519
+- [Line 821-854](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L821)`getPastedPortsIdsFromCopiedPortsIds` -lg519
+- [Line 859-876](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L859)`updateCmpBits` -lg519
+- [Line 879-888](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L879)`updateCmpLsbBits` -lg519
+- [Line 891-898](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L891)`updateConstant` -lg519
+- [Line 905-1091](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L905)`update` -lg519
+- [Line 1098-1099](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L1098)`extractComponent` -lg519
+- [Line 1101-1104](https://github.com/xw2519/HLP-Project-2022-Team-8/blob/a51774410a6efd35e67edfa01795a7948111f066/src/Renderer/DrawBlock/Symbol.fs#L1098)`extractComponents` -lg519
+
+
 
 ### Symbol Function Ownership Changes
 
