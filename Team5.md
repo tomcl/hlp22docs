@@ -196,7 +196,8 @@
 - `getWireIfClicked` - gk518
 - `pasteWires` - gk518
 - `getPortIdsOfWires` - gk518
-
+- `isLineIntersectingBoundingBox` - gk518
+- `isLineInBox` - gk518
 
 
 ## Other Module Changes
